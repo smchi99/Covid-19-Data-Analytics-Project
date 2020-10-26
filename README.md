@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Data analytic projects completed in jupyter notebook for self-learning or as class projets.
+*Data analytic projects completed in jupyter notebook for self-learning or as class projets.*
 
 ### [Covid-19 Data Analytics Project](https://github.com/smchi99/Data-Analytics-Portfolio/blob/main/COVID-19%20Data.ipynb)
 - Analyzed Covid-19 data from March - July 2020, through Kaggle
