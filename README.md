@@ -10,3 +10,4 @@ Cleaned and analyzed data to find patterns in the spread of Covid-19 in the US t
 Cleaned, analyzed, and created a predictive model to determine top causes of airline delays and to better predict future airline delays.
 
 
+
